@@ -28,8 +28,8 @@ feature:
   icon_pack: fas
   name: SPSS
 - description: Introductory
-  icon: camera-retro
-  icon_pack: fas
+  icon: python
+  icon_pack: custom
   name: Python
 - description: Intermediate
   icon: r-project
