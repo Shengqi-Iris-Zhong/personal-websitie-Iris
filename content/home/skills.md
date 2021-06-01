@@ -40,12 +40,12 @@ feature:
   icon_pack: far
   name: Stata
 - description: Intermediate
-  icon: poll-people
+  icon: poll-h
   icon_pack: fas
   name: Qualtrics
 - description: Introductory
   icon: database
-  icon_pack: fad
+  icon_pack: fas
   name: FileMaker
 - description: Intermediate
   icon: ruler-horizontal
