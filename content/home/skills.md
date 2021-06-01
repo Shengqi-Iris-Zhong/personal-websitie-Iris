@@ -29,11 +29,11 @@ feature:
   name: SPSS
 - description: Introductory
   icon: python
-  icon_pack: custom
+  icon_pack: fab
   name: Python
 - description: Intermediate
-  icon: r-project
-  icon_pack: fab
+  icon: baby
+  icon_pack: fas
   name: Lookit
 - description: Introductory
   icon: r-project
