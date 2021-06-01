@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Try: turn it inactive
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -19,18 +19,43 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Intermediate
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Introductory
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: SPSS
+- description: Introductory
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Python
+- description: Intermediate
+  icon: r-project
+  icon_pack: fab
+  name: Lookit
+- description: Introductory
+  icon: r-project
+  icon_pack: fab
+  name: Stata
+- description: Intermediate
+  icon: r-project
+  icon_pack: fab
+  name: Qualtrics
+- description: Introductory
+  icon: r-project
+  icon_pack: fab
+  name: FileMaker
+- description: Intermediate
+  icon: r-project
+  icon_pack: fab
+  name: Winsteps
+- description: Introductory
+  icon: r-project
+  icon_pack: fab
+  name: ArcGIS
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
