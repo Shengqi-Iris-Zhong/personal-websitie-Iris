@@ -36,24 +36,24 @@ feature:
   icon_pack: fas
   name: Lookit
 - description: Introductory
-  icon: r-project
-  icon_pack: fab
+  icon: chart-scatter
+  icon_pack: far
   name: Stata
 - description: Intermediate
-  icon: r-project
-  icon_pack: fab
+  icon: poll-people
+  icon_pack: fas
   name: Qualtrics
 - description: Introductory
-  icon: r-project
-  icon_pack: fab
+  icon: database
+  icon_pack: fad
   name: FileMaker
 - description: Intermediate
-  icon: r-project
-  icon_pack: fab
+  icon: ruler-horizontal
+  icon_pack: far
   name: Winsteps
 - description: Introductory
-  icon: r-project
-  icon_pack: fab
+  icon: map-marked-alt
+  icon_pack: fas
   name: ArcGIS
   
 
