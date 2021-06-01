@@ -36,7 +36,7 @@ feature:
   icon_pack: fas
   name: Lookit
 - description: Introductory
-  icon: chart-scatter
+  icon: chart-bar
   icon_pack: far
   name: Stata
 - description: Intermediate
@@ -48,8 +48,8 @@ feature:
   icon_pack: fas
   name: FileMaker
 - description: Intermediate
-  icon: ruler-horizontal
-  icon_pack: far
+  icon: ruler
+  icon_pack: fas
   name: Winsteps
 - description: Introductory
   icon: map-marked-alt
