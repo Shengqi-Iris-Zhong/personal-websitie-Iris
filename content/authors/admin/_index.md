@@ -70,6 +70,6 @@ highlight_name: false
 
 Hi! My name is Shengqi Zhong 钟圣祺 (she/her), and I go by Iris. I am an incoming Master's student at the Stanford Education Data Science program. I aspire to improve education through quantitative methods, and my current interests lie in longitudinal data analyses and psychometrics. 
 
-I graduated from Smith College in May 2021, majoring in Psychology and Quantitative Economics. At Smith, my main focuses were developmental psychology and language acquisition.
+I graduated from Smith College in May 2021, with a degree in Psychology and Quantitative Economics. At Smith, my main focuses were developmental psychology and language acquisition.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
