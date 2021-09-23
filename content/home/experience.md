@@ -21,7 +21,6 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 experience:
   - title: Research Assistant - English language learning with AI
     company: Stanford University
@@ -30,7 +29,9 @@ experience:
     location: Remote
     date_start: '2021-08-10'
     date_end: '2021-10-01'
-    description: Tested nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
+    description: |2-
+        
+        * Tested nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
 
 - title: Blog Writer
     company: Tiz Education
@@ -39,7 +40,9 @@ experience:
     location: Remote
     date_start: '2021-02-01'
     date_end: ''
-    description:  Write blog posts in education technology, creating over 15 articles and accumulating more than 3000 views
+    description: |2-
+    
+        * Write blog posts in education technology, creating over 15 articles and accumulating more than 3000 views
 
 
 - title: HR
