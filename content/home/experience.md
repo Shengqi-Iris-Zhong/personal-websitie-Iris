@@ -30,7 +30,8 @@ experience:
     location: Remote
     date_start: '2021-08-10'
     date_end: '2021-10-01'
-    description: |2-     
+    description: 
+    
         * Tested nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
 
 - title: Blog Writer
@@ -40,7 +41,7 @@ experience:
     location: Remote
     date_start: '2021-02-01'
     date_end: ''
-    description: |2-
+    description: 
     
         * Write blog posts in education technology, creating over 15 articles and accumulating more than 3000 views
 
