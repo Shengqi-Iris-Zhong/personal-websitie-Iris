@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant - English language learning with AI
     company: Stanford University
     company_url: ''
-    company_logo: org-gc
+    company_logo: stanford
     location: Remote
     date_start: '2021-08-10'
     date_end: '2021-10-01'
