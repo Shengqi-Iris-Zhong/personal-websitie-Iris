@@ -19,10 +19,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Intermediate
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
+ # - description: Intermediate
+ # icon: r-project
+ # icon_pack: fab
+ # name: R
 - description: Introductory
   icon: chart-line
   icon_pack: fas
