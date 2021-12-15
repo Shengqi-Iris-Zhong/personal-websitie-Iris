@@ -26,38 +26,36 @@ feature:
  # icon: r-project
  # icon_pack: fab
  # name: R
-- description: Introductory
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: SPSS
-- description: Introductory
-  icon: python
+- icon: python
   icon_pack: fab
   name: Python
-- description: Intermediate
-  icon: baby
+- icon: database
   icon_pack: fas
-  name: Lookit
-- description: Introductory
-  icon: chart-bar
+  name: SQL
+- icon: chart-bar
   icon_pack: far
   name: Stata
-- description: Intermediate
-  icon: poll-h
+- icon: poll-h
   icon_pack: fas
   name: Qualtrics
-- description: Introductory
-  icon: database
+- icon: desktop
+  icon_pack: fas
+  name: Axure RP
+- icon: tablet-alt
   icon_pack: fas
   name: FileMaker
-- description: Intermediate
-  icon: ruler
+- icon: ruler
   icon_pack: fas
   name: Winsteps
-- description: Introductory
-  icon: map-marked-alt
+- icon: map-marked-alt
   icon_pack: fas
   name: ArcGIS
+- icon: baby
+  icon_pack: fas
+  name: Lookit
   
 
 # Uncomment to use emoji icons.
