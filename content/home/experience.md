@@ -28,21 +28,22 @@ experience:
     company_logo: org-gc
     location: Remote
     date_start: '2021-08-10'
-    date_end: ''
+    date_end: '2021-10-01'
     description: |2-
         
-        * Test nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
+        * Tested nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
+        * Coded video data of over thirty participants
         
   - title: Blog Writer
     company: Tiz Education
     company_url: ''
-    company_logo: org-x
+    company_logo: tiz
     location: Remote
-    date_start: '2021-02-01'
+    date_start: '2021-01-20'
     date_end: ''
     description: |2-
     
-        * Write blog posts in education technology, creating over 15 articles and accumulating more than 3000 views
+        * Write blog posts in education technology, creating over 20 articles and accumulating more than 4000 views
 
 design:
   columns: '2'
