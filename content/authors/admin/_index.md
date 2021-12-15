@@ -72,4 +72,6 @@ Hi! My name is Shengqi Zhong 钟圣祺 (she/her), and I go by Iris. I am an inco
 
 I graduated from Smith College in May 2021, with a degree in Psychology and Quantitative Economics. At Smith, my main focuses were developmental psychology and language acquisition.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Iris Zhong - Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Iris Zhong - Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/drive/folders/103UTnwsc-j62vow7deugbejBuvj-Golb?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
