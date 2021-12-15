@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include measuring learning outcomes and early childhood education. 
 
 # Interests to show in About widget
 interests:
@@ -41,18 +41,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Shengqi-Iris-Zhong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/shengqi-zhong-46049a165/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi! My name is Shengqi Zhong 钟圣祺 (she/her), and I go by Iris. I am an incoming Master's student at the Stanford Education Data Science program. I aspire to improve education through quantitative methods, and my current interests lie in longitudinal data analyses and psychometrics. 
+Hi! My name is Shengqi Zhong 钟圣祺 (she/her), and I go by Iris. I am a master's Education Data Science student at Stanford University. I aspire to improve education through quantitative methods, and my current interests lie in longitudinal data analyses, early childhood education and psychometrics. 
 
 I graduated from Smith College in May 2021, with a degree in Psychology and Quantitative Economics. At Smith, my main focuses were developmental psychology and language acquisition.
 
