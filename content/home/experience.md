@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant - English language learning with AI
     company: Stanford University
     company_url: ''
-    company_logo: stanford
+    # company_logo: stanford
     location: Remote
     date_start: '2021-08-10'
     date_end: '2021-10-01'
@@ -37,7 +37,7 @@ experience:
   - title: Blog Writer
     company: Tiz Education
     company_url: ''
-    company_logo: tiz
+    # company_logo: tiz
     location: Remote
     date_start: '2021-01-20'
     date_end: ''
