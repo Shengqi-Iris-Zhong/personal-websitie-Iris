@@ -37,7 +37,7 @@ experience:
   - title: Blog Writer
     company: Tiz Education
     company_url: ''
-    company_logo: tiz.jfif
+    company_logo: tiz
     location: Remote
     date_start: '2021-01-20'
     date_end: ''
